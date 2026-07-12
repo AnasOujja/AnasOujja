@@ -8,4 +8,4 @@ Master's student in Computer Science at the University of Passau.
   see [ear-docker](https://github.com/AnasOujja/ear-docker)
 - 📊 Also explored Big Data pipelines (Hadoop/Spark/OpenSearch) on World Bank
   development indicator data — see [BigData_WDI](https://github.com/AnasOujja/BigData_WDI)
-- 📫 Reach me: [LinkedIn]([your-link-here](https://www.linkedin.com/in/anas-oujja/)) · [email](anasoujja97@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anas-oujja/) · [email](anasoujja97@gmail.com)
