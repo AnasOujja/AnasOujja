@@ -15,7 +15,7 @@
 | Monitoring | Grafana |
 | Profiling & Performance Analysis | gprof, EZTrace, NVIDIA Nsight, perf, communication heatmaps |
 | ML/DL Libraries | TensorFlow, Keras, Scikit-learn, OpenCV |
-| ML/DL Algorithms & Techniques | YOLOv3, Quantization (QAT/PTQ), Ridge/Lasso Regression, Clustering, Feature Engineering, MLflow, Checkpointing |
+| ML/DL Algorithms & Techniques | YOLOv3, Quantization (QAT/PTQ), Ridge/Lasso Regression, Clustering, SVM, Random Forest, XGBoost, Neural Networks, Feature Engineering, MLflow, Checkpointing |
 | Version Control | Git |
 
 - 🛠️ Recent work: containerised a SLURM + Energy-Aware Runtime (EAR) cluster during
