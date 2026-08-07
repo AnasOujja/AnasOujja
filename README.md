@@ -5,7 +5,7 @@
 
 | Category | Tools |
 |---|---|
-| HPC & Parallel Computing | Slurm, MPI, OpenMP, CUDA |
+| HPC & Parallel Computing | Slurm, MPI, OpenMP, CUDA, Lustre |
 | Languages | C/C++, Python, Bash |
 | Virtualization & Containers | KVM/QEMU, Docker |
 | Cluster & Network Services | DNS, DHCP, LDAP, SSH, rsyslog, NTP, Network configuration |
