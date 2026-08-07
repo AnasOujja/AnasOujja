@@ -16,8 +16,8 @@
 | Monitoring | Grafana |
 | Profiling & Performance Analysis | gprof, EZTrace, NVIDIA Nsight, perf, communication heatmaps |
 | Databases | SQL, NoSQL |
-| ML/DL Libraries | TensorFlow, Keras, Scikit-learn, OpenCV |
-| ML/DL Algorithms & Techniques | YOLOv3, Quantization (QAT/PTQ), Ridge/Lasso Regression, Clustering, Feature Engineering, MLflow, Checkpointing |
+| ML/DL Libraries | TensorFlow, Keras, Scikit-learn, pandas, numpy, OpenCV |
+| ML/DL Algorithms & Techniques | YOLOv3, Quantization (QAT/PTQ), Ridge/Lasso Regression, Clustering, PCA, Neural Networks, SVM, Random Forest, LSTM, Feature Engineering, MLflow, Checkpointing |
 | Version Control | Git |
 
 - 🛠️ Recent work:
