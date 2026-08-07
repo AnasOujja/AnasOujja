@@ -6,7 +6,8 @@
 | Category | Tools |
 |---|---|
 | HPC & Parallel Computing | Slurm, MPI, OpenMP, CUDA, Lustre |
-| Languages | C/C++, Python, Bash |
+| Data Engineering | Hadoop, Spark, HDFS, Kafka, Hive, ETL/ELT, Logstash, OpenSearch |
+| Languages | C/C++, Python, Scala, Bash |
 | Virtualization & Containers | KVM/QEMU, Docker |
 | Cluster & Network Services | DNS, DHCP, LDAP, SSH, rsyslog, NTP, Network configuration |
 | Config Management & Build Tools | Ansible, EasyBuild |
