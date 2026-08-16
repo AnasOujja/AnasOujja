@@ -8,12 +8,12 @@
 | HPC & Parallel Computing | Slurm, MPI, OpenMP, CUDA, Lustre |
 | Data Engineering | Hadoop, Spark, HDFS, Kafka, Hive, ETL/ELT, Logstash, OpenSearch |
 | Languages | C/C++, Python, Scala, Bash |
-| Virtualization & Containers | KVM/QEMU, Docker |
+| Virtualization & Containers | KVM/QEMU, Docker, Kubernetes |
 | Cluster & Network Services | DNS, DHCP, LDAP, SSH, rsyslog, NTP, Network configuration |
 | Config Management & Build Tools | Ansible, EasyBuild |
 | Build & Documentation Tools | Make, Doxygen |
 | Package Management | RPM, YUM |
-| Monitoring | Grafana |
+| Monitoring | Grafana, OpenSearch Dashboards |
 | Profiling & Performance Analysis | gprof, EZTrace, NVIDIA Nsight, perf, communication heatmaps |
 | Databases | SQL, NoSQL |
 | ML/DL Libraries | TensorFlow, Keras, Scikit-learn, pandas, numpy, OpenCV |
