@@ -1,6 +1,5 @@
 ### Hi, I'm Anas 👋
 - 🎓 Master's degree in Business Intelligence & Computer Vision | Ex-PhD in Computational Biology | Currently completing a second Master's in Computer Science @ University of Passau
-- 🔭 Currently looking for opportunities in HPC & scientific computing
 - 🧰 My toolbox:
 
 | Category | Tools |
